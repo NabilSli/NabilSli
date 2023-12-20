@@ -8,4 +8,4 @@ I'm a junior fullstack developer.
 
     Finally, I make youtube videos on how to build you own computer and tech news.
 
-[Website] (https://slimani-nabil.netlify.app/) ~ [Linkedin] (www.linkedin.com/in/nabil-slimani-620848272)
+[Website](https://slimani-nabil.netlify.app/) ~ [Linkedin](www.linkedin.com/in/nabil-slimani-620848272)
