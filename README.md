@@ -8,6 +8,6 @@ I'm a junior fullstack developer.
 
     Finally, I make youtube videos on how to build you own computer and tech news.
 
-![Les Stats GitHub de Nabil](https://github-readme-stats.vercel.app/api?username=nabilsli icons=true&theme=dark)
+![Les Stats GitHub de nabil](https://github-readme-stats.vercel.app/api?username=nabilsli&show_icons=true&theme=dark&hide_rank=true)
 
 [Website](https://slimani-nabil.netlify.app/) ~ [Linkedin](www.linkedin.com/in/nabil-slimani-620848272)
