@@ -1,6 +1,9 @@
 # 👋 Hi, my name is Nabil
 
-<p align="cente">
+<img src="https://github.com/NabilSli/NabilSli/blob/main/profilPic.png" align="right"
+     alt="Nabil's profil picture" height="200" style="border-radius=50%">
+
+<p>
 I'm a junior fullstack developer.
 
 🚂 Former train conductor turned web developer! 🌐 Passionate about coding and creating meaningful digital experiences. Excited to leverage my diverse background to build innovative web solutions. 🚀
