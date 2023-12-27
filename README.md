@@ -24,4 +24,5 @@ Finally, I make youtube videos on how to build you own computer and tech news.
 
 ![Les Stats GitHub de nabil](https://github-readme-stats.vercel.app/api?username=nabilsli&show_icons=true&theme=dark&hide_rank=true)
 
-[Visit my Website](https://slimani-nabil.netlify.app/) ~ [Linkedin](www.linkedin.com/in/nabil-slimani-620848272)
+- [🔗 Visit my Website](https://slimani-nabil.netlify.app/) 
+- [🔦 Linkedin](www.linkedin.com/in/nabil-slimani-620848272)
