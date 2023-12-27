@@ -1,16 +1,15 @@
-👋 Hi, my name is Nabil
+# 👋 Hi, my name is Nabil
 
+<p align="cente">
 I'm a junior fullstack developer.
 
-    I have mainly worked on front-end application.
+🚂 Former train conductor turned web developer! 🌐 Passionate about coding and creating meaningful digital experiences. Excited to leverage my diverse background to build innovative web solutions. 🚀
 
-    I use React, NodeJS, ViteJS, Express, MongoDB.
+Finally, I make youtube videos on how to build you own computer and tech news.
+</p>
 
-    Finally, I make youtube videos on how to build you own computer and tech news.
 
-----------------------------------
-
-Tech Stack
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript)
 ![React](https://img.shields.io/badge/-React-000?logo=react)
@@ -19,8 +18,6 @@ Tech Stack
 ![CSS3](https://img.shields.io/badge/-CSS3-000?logo=css3)
 ![SASS](https://img.shields.io/badge/-Sass-000?logo=Sass)
 ![SASS](https://img.shields.io/badge/-Express-000?logo=Express)
-
-------------------------------
 
 ![Les Stats GitHub de nabil](https://github-readme-stats.vercel.app/api?username=nabilsli&show_icons=true&theme=dark&hide_rank=true)
 
